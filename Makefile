@@ -28,7 +28,7 @@ LIB  := #
 # OMP  := -qopenmp
 # LIB  := #
 
-TARGET = ball0X.exe
+TARGET = ball0x.exe
 
 SRC = param.f90 common.f90 stats.f90 init.f90 forcing.f90 timeIntegration.f90 destroy.f90 main.f90
 
