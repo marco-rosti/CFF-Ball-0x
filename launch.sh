@@ -21,5 +21,5 @@ ml amd-modules
 
 # Start 'myprog' with input from bucket, 
 # and output to our temporary directory 
-srun ballOx.exe > log.out 2> err.out 
+srun ball0x.exe > log.out 2> err.out 
 
