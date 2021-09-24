@@ -1,0 +1,23 @@
+radFile.dat iniFile.dat   !radFilename,iniFilename
+65536                     !nPar
+0                         !modop (0,1,2,3)
+0.0000001  60.            !dtime, tmax
+87.924679  87.924679  87.924679    !lx, ly, lz
+1.                        !rhoPar
+14  14  14                !nxBin, nyBin, nzBin
+1.  1000.                 !gammaDot, viscosity
+20.    1                  !UinfS, waveNS
+0.25                      !lubOuterDist
+4e8  40.                  !kN, gammaN
+2  7  0.5                 !kTnum, kTden, muC
+1  7  0.1                 !kRnum, kRden, muR
+1.6964600e4  0.02         !fER, lambdaDb
+2.2619467e0  1e-2         !ham, epsVdW
+2                         !nSave
+1000000                   !itSave
+100000                    !itField
+100                       !itRuntime
+1000                      !itPrint
+100                       !itStat
+25.0                      !tStat
+128                       !nThreads
