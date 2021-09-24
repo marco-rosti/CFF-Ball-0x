@@ -589,8 +589,8 @@
 
  9999 FORMAT (/'-- Time Unit --  ---- eta_r ----  ---- eta_n ----' &
            '  ||-- CPUt [h]  --  - CPUt/it [s] -  ---- it ----')
- 9998 FORMAT (7X, f8.5, 8X, f9.5, 8X, f9.5, 2X, '||'               &
-             ,6X, f9.5, 8X, f9.5, 5X, i9)
+ 9998 FORMAT (6X, f9.4, 7X, f10.4, 7X, f10.4, 2X, '||'               &
+             ,6X, f9.4, 7X, f10.4, 5X, i9)
  9997 FORMAT (2X, f12.7, 6(4X, f25.12))
 
   END SUBROUTINE timeIntegration
