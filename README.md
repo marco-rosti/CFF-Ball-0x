@@ -14,7 +14,7 @@ The convergence of the simulation, instead, can be checked by plotting the quant
 
 ## Code acknowledgement
 If CFF-Ball-0x has been used, to acknowledge our work please cite the following paper
-Monti, A., Rathee, V., Shen, A.Q. and Rosti, M.E., 2021. *A fast and efficient tool to study the rheology of dense suspensions*. Physics of Fluids, 33(10), p.103314. https://doi.org/10.1063/5.0065655
+`Monti, A., Rathee, V., Shen, A.Q. and Rosti, M.E., 2021. *A fast and efficient tool to study the rheology of dense suspensions*. Physics of Fluids, 33(10), p.103314. https://doi.org/10.1063/5.0065655`
 
 ## About us
 Alessandro Monti, Ph.D. Postdoctoral Research Fellow at Okinawa Institute of Science and Technology Graduate University (OIST). Creator and main developer
