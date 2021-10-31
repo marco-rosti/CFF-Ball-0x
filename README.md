@@ -13,7 +13,7 @@ The output file is written in `log.out`, where the current *time unit*, *relativ
 The convergence of the simulation, instead, can be checked by plotting the quantities found into `checkConvergence.dat` (first column the *time unit*, other columns some quantities of interest; the second column, for instance, represents the non-normalised relative viscosity. The quantities written in that file can be found inside `timeIntegration.f90`).
 
 ## Code acknowledgement
-If CFF-Ball-0x has been used, to acknowledge our work please cite the following paper <br />
+If CFF-Ball-0x has been used, please acknowledge our work citing the following paper <br />
 **Monti, A., Rathee, V., Shen, A.Q. and Rosti, M.E., 2021. *A fast and efficient tool to study the rheology of dense suspensions*. Physics of Fluids, 33(10), p.103314. https://doi.org/10.1063/5.0065655**
 
 ## About us
